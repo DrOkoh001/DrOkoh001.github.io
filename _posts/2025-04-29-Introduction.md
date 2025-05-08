@@ -3,7 +3,7 @@ layout: post
 title: Introduction
 ---
 
-![Profile image of Dr. Okoh](
+![Profile image of Dr. Okoh](assets/image/ProfilePic.jpeg)
 
 # Welcome to my digital humanities sandbox!
 
