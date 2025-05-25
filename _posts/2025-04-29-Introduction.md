@@ -3,6 +3,7 @@ layout: post
 title: Introduction
 ---
 
+![avatar](https://github.com/user-attachments/assets/427d2dea-2b9e-4c1f-983b-0b7c9bcf6a64)
 
 
 # Welcome to my digital humanities sandbox!
