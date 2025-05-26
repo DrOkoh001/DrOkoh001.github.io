@@ -1,5 +1,5 @@
 
-## Day 1: Pre-Workshop Day, DHSI 2025
+# Day 1: Pre-Workshop Day, DHSI 2025
 
 Dr. Bunzli and I arrived yesterday in Montreal and we spent most of our time after arrival finding and getting registered at the hostel on the University of Montréal's campus, and then getting oriented. Today, our Loyola student cohort arrived. We figured out the logistics of using the metro and bus system to and from the airport, and then had a nice meal together. Tonight, we each set up our blog for this experience. As I type this, I just learned how to use markdown text to make this post AND add an image. Squeeee!
 
