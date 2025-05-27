@@ -7,10 +7,10 @@ In a nutshell, my new project focuses on the development of a specific kind of N
 ![562E2802-8866-4D14-8FFD-FE6A5DFE0AD2_1_201_a](https://github.com/user-attachments/assets/96b4ebe3-a9f2-4312-9b6d-3d72c2fda5f5)
 
 Here are the main take-aways from today's session: 
-> 1) Having a project plan will help me communicate effectively about the project and seek out support, in terms of funding and other resources. It will also keep me (and my team) organized and on task. 
-> 2) A project plan is not set in stone. It is a kind of living document (artifact? product?) that can be tweaked in the face of challenges and constraints I might encounter along the way. The instructor provided a helpful flow chart to help conceptualize sets of tasks and contingencies that can be adapted.
-> 3) A multi-faceted project like mine can be broken down into phases, each with its own plan and set of tasks, so these plans can be nested within the overall project plan.
-> 4) I need to consider time frames for doing the work more concretely than I currently do.
-> 5) I will have to move out of my comfort zone of working alone to working in callaboration with a "team" of people with different skills and levels of expertise to accomplish the full scope of this project. 
+> 1. Having a project plan will help me communicate effectively about the project and seek out support, in terms of funding and other resources. It will also keep me (and my team) organized and on task. 
+> 2. A project plan is not set in stone. It is a kind of living document (artifact? product?) that can be tweaked in the face of challenges and constraints I might encounter along the way. The instructor provided a helpful flow chart to help conceptualize sets of tasks and contingencies that can be adapted.
+> 3. A multi-faceted project like mine can be broken down into phases, each with its own plan and set of tasks, so these plans can be nested within the overall project plan.
+> 4. I need to consider time frames for doing the work more concretely than I currently do.
+> 5. I will have to move out of my comfort zone of working alone to working in callaboration with a "team" of people with different skills and levels of expertise to accomplish the full scope of this project. 
 
 Lots to learn! But, I am excited to get moving on this. 
