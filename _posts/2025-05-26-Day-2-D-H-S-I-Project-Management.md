@@ -1,4 +1,4 @@
-# Day 1: Project Management
+# Day 1 of Project Management Course #
 
 Initially, I wasn't sure that this project management course was a good fit for me. I thought I needed to have some kind of digital project that was all worked out to be able to talk through. Thankfully, that isn't the case. In fact, I was a lot further along in thinking through my new project than I thought I was. We did some important exercises to help define the project, figure out its scope, and determine who I might need and what skills I may need to develop to carry out this project.
 
