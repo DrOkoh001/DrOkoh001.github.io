@@ -1,5 +1,3 @@
-# Day 4: DHSI Project Management #
-
 ### Day 3 of the Project Management Course ###
 
 Today we learned how to conceptualize and organize the various taskes associated with our projects. The end result was a Gantt Chart. I was really insecure about having to organize the tasks into a timeline. One of the more challenging aspects of my ADHD is "time blindness." I really struggle conceptualizing time horizons. It turned out to be okay; in fact, it was really helpful to use the Gantt Chart method! Here is a visual representation of the process we went through to get to using a digital Gantt Chart (I got a little ahead of the class using a Google Sheets template, but I was so enthusiastic about this method that I had to take a stab at it.):
